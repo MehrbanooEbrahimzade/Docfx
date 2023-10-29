@@ -51,6 +51,18 @@
     ],
     "dest": "_site",
     "globalMetadataFiles": [],
+    "globalMetadata": {
+      "_appTitle": "PlekChecker API website",
+      "_appFooter": "PlekChecker API website",
+      "_gitContribute": {
+        "repo": "https://eti-git.visualstudio.com/_git/WC",
+        "branch": "master",
+        "path": ""
+      },
+      "_gitUrlPattern": "vso",
+      "newFileRepository": {
+        "branch": "master"
+      },
     "fileMetadataFiles": [],
     "template": [
       "default"
@@ -62,4 +74,4 @@
     "cleanupCacheHistory": false,
     "disableGitFeatures": false
   }
-}
+}}
